@@ -8,7 +8,6 @@ Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en
 <br>
 Conocimientos
 <hr>
-[js](https://github.com/user-attachments/assets/aeb5a91e-04f0-4715-82d2-4fd47dd1daa8)
 
 <!---
 ErickFullDevelop/ErickFullDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

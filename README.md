@@ -9,6 +9,10 @@ Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en
 <hr>
 
 Conocimientos
+####Tecnologías
+ - Javascript
+ - HTML
+ - CSS
 
 
 <!---

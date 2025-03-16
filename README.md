@@ -10,7 +10,8 @@ Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en
 
 Conocimientos
 #### Tecnologías
- - Javascript ![image](https://github.com/user-attachments/assets/4091ec01-28be-4bc0-a387-33248cc5c24a)
+ - Javascript ![image](https://github.com/user-attachments/assets/4091ec01-28be-4bc0-a387-33248cc5c24a) ![image](https://github.com/user-attachments/assets/cfec91b5-0262-463f-99d3-c07c1b2ea06f)
+
 
  - HTML
  - CSS

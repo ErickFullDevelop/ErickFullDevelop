@@ -10,7 +10,13 @@ Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en
 
 Conocimientos
 #### Tecnologías
- - Javascript ![image](https://github.com/user-attachments/assets/4091ec01-28be-4bc0-a387-33248cc5c24a) ![image](https://github.com/user-attachments/assets/cfec91b5-0262-463f-99d3-c07c1b2ea06f)
+ - Javascript ![image](https://github.com/user-attachments/assets/4091ec01-28be-4bc0-a387-33248cc5c24a) ![image](https://github.com/user-attachments/assets/cfec91b5-0262-463f-99d3-c07c1b2ea06f) ![image](https://github.com/user-attachments/assets/b9905a26-bee4-40c3-afdd-9470a6dbbd1b) ![image](https://github.com/user-attachments/assets/a4e33311-52fa-4603-832f-5dec17e31411) ![image](https://github.com/user-attachments/assets/92a62a1b-1a89-4a85-817e-7ddd52a0cce0) ![image](https://github.com/user-attachments/assets/e5c3c7ce-2d2e-4922-93bc-b1c0c9fb8e21) ![image](https://github.com/user-attachments/assets/f1c88136-15cb-4a92-b05b-cbab4e76e6f4) ![image](https://github.com/user-attachments/assets/8ec73860-0408-4d07-b168-d246cea73b51)
+
+
+
+
+
+
 
 
  - HTML
@@ -24,6 +30,8 @@ Conocimientos
  - 📫 How to reach me: ...
  - 😄 Pronouns: ...
  - ⚡ Fun fact: ...
+
+< Erick Meneses I. />
 
 <!---
 ErickFullDevelop/ErickFullDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

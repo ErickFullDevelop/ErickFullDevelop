@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+ErickFullDevelop;Fullstack+Developer+in+Javascript)](https://git.io/typing-svg)
 
-  
 
 #### Acerca de mi 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
@@ -39,6 +38,15 @@ Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en
  - 📫 How to reach me: ...
  - 😄 Pronouns: ...
  - ⚡ Fun fact: ...
+
+
+<details> 
+  <summary><h3>🌐 Connect with me</h3></summary>
+     <div>
+          <a href = "mailto:erickmenesesibarra@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/em-16492b87/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+         
+</details>
 
 ## < Erick Meneses I. />
 

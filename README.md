@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ErickFullDevelop
-- Fullstack Developer in Javascript
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+ErickFullDevelop;Fullstack+Developer+in+Javascript)](https://git.io/typing-svg)
+
+  
 
 #### Acerca de mi
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
 
-<hr> 
-Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactivo, Javascript fue el lenguaje que me abrio las puertas a este nuevo mundo. Despues de haber trabajado 12 años en area Comercial de Bancos y Compañias de Seguro decido empezar a programar.
+Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactivo, Javascript fue el lenguaje que me abrio las puertas a este nuevo mundo. Despues de haber trabajado 10 años en area Comercial de Bancos y Compañias de Seguro decido empezar a programar.
 <br>    <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
 
 
 #### Tecnologías

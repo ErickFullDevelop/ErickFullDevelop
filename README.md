@@ -2,7 +2,7 @@
 
   
 
-#### Acerca de mi
+#### Acerca de mi 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
 
 Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactivo, Javascript fue el lenguaje que me abrio las puertas a este nuevo mundo. Despues de haber trabajado 10 años en area Comercial de Bancos y Compañias de Seguro decido empezar a programar.

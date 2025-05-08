@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+ErickFullDevelop;Fullstack+Developer+in+Javascript)](https://git.io/typing-svg)
 
 
-#### Acerca de mi 
+#### A litle more about me....
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
+
 
 I am a professional who transitioned into the tech field, bringing over 10 years of experience in the Commercial areas of banks and insurance companies. My previous background has equipped me with key skills such as teamwork, resilience, proactivity, and a strong commitment to continuous learning.
 My journey into programming began with JavaScript, the language that opened the door to this new world. Since then, I’ve been deepening my knowledge in web development and modern tech tools, combining my business insight with technical skills to deliver well-rounded solutions.

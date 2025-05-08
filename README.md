@@ -4,49 +4,29 @@
 #### Acerca de mi 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
 
-Soy un profesional reconvertido al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactivo, Javascript fue el lenguaje que me abrio las puertas a este nuevo mundo. Despues de haber trabajado 10 años en area Comercial de Bancos y Compañias de Seguro decido empezar a programar.
+I am a professional who transitioned into the tech field, bringing over 10 years of experience in the Commercial areas of banks and insurance companies. My previous background has equipped me with key skills such as teamwork, resilience, proactivity, and a strong commitment to continuous learning.
+My journey into programming began with JavaScript, the language that opened the door to this new world. Since then, I’ve been deepening my knowledge in web development and modern tech tools, combining my business insight with technical skills to deliver well-rounded solutions.
+Today, I’m looking to grow as a developer and add value from a unique perspective that bridges commercial experience with technological capabilities.
 <br>    <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descripción" width="1000">
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ErickFullDevelop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ErickFullDevelop&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFullDevelop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### Tecnologías
- 
-
- <img src="https://github.com/user-attachments/assets/4091ec01-28be-4bc0-a387-33248cc5c24a" alt="Descripción" width="75">
-
- <img src="https://github.com/user-attachments/assets/cfec91b5-0262-463f-99d3-c07c1b2ea06f" alt="Descripción" width="75">
-
- <img src="https://github.com/user-attachments/assets/b9905a26-bee4-40c3-afdd-9470a6dbbd1b" alt="Descripción" width="75">
-
- <img src="https://github.com/user-attachments/assets/a4e33311-52fa-4603-832f-5dec17e31411" alt="Descripción" width="75">
-
- <img src="https://github.com/user-attachments/assets/92a62a1b-1a89-4a85-817e-7ddd52a0cce0" alt="Descripción" width="75">
- 
- <img src="https://github.com/user-attachments/assets/e5c3c7ce-2d2e-4922-93bc-b1c0c9fb8e21" alt="Descripción" width="75">
-
- <img src="https://github.com/user-attachments/assets/f1c88136-15cb-4a92-b05b-cbab4e76e6f4" alt="Descripción" width="75">
-
- <img src="https://github.com/user-attachments/assets/8ec73860-0408-4d07-b168-d246cea73b51" alt="Descripción" width="75">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ErickFullDevelop&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
-- 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
 
 
-<details> 
-  <summary><h3>🌐 Connect with me</h3></summary>
-     <div>
-          <a href = "mailto:erickmenesesibarra@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/em-16492b87/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-         
-</details>
+
+
+
 
 ## < Erick Meneses I. />
 
